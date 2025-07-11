@@ -19,9 +19,11 @@
         { 
             Console.Clear();
             Console.WriteLine("GravityFalls에 오신걸 환영합니다!");
-            Console.WriteLine("이름을 입력해주세요 (2자 이상 10자 이하)\n>>> ");
+            Console.Write("이름을 입력해주세요 (2자 이상 10자 이하)\n>>> ");
 
-            Utility.readName();
+            string name = Utility.readName();
+
+            player.SetName(name);
         }
 
         public void showMenu()

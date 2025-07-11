@@ -16,18 +16,15 @@ namespace TextDungeonFinal
 
         public static string readName()
         {
-            string name;
+            string name = Console.ReadLine();
             Regex regex = new Regex(@"^[a-zA-Z0-9]+$");
 
-            do
+            while (string.IsNullOrWhiteSpace(name) || name.Length < 2 || name.Length > 10 || !regex.IsMatch(name))
             {
-                name = Console.ReadLine();
                 Console.Write("잘못된 입력입니다. 2자 이상 10자 이하의 한글 또는 영문 이름을 입력해 주세요.\n>>> ");
+                name = Console.ReadLine();
             }
-            while (string.IsNullOrWhiteSpace(name) || name.Length <= 2 || name.Length >= 10 || !regex.IsMatch(name));
-
             return name;
         }
     }
-
 }
