@@ -13,4 +13,9 @@ namespace TextDungeonFinal
             }
         }
     }
+
+    public class Item
+    {
+
+    }
 }
