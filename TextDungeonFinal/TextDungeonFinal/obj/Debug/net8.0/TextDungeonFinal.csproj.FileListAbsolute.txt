@@ -1,0 +1,14 @@
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\bin\Debug\net8.0\TextDungeonFinal.exe
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\bin\Debug\net8.0\TextDungeonFinal.deps.json
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\bin\Debug\net8.0\TextDungeonFinal.runtimeconfig.json
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\bin\Debug\net8.0\TextDungeonFinal.dll
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\bin\Debug\net8.0\TextDungeonFinal.pdb
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.AssemblyInfoInputs.cache
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.AssemblyInfo.cs
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.csproj.CoreCompileInputs.cache
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.dll
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\refint\TextDungeonFinal.dll
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.pdb
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\TextDungeonFinal.genruntimeconfig.cache
+C:\Users\ChralieLee\source\repos\csharp\TextDungeonFinal\TextDungeonFinal\obj\Debug\net8.0\ref\TextDungeonFinal.dll

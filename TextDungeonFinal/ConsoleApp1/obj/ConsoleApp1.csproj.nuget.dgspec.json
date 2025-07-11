@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\TextDungeonFinal\\TextDungeonFinal.csproj": {}
+    "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\TextDungeonFinal\\TextDungeonFinal.csproj": {
+    "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\TextDungeonFinal\\TextDungeonFinal.csproj",
-        "projectName": "TextDungeonFinal",
-        "projectPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\TextDungeonFinal\\TextDungeonFinal.csproj",
+        "projectUniqueName": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\ChralieLee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\TextDungeonFinal\\obj\\",
+        "outputPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\TextDungeonFinal\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
